@@ -6,7 +6,7 @@
 /*   By: bmangany <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/20 10:26:58 by bmangany          #+#    #+#             */
-/*   Updated: 2020/06/20 10:30:13 by bmangany         ###   ########.fr       */
+/*   Updated: 2020/06/21 15:00:24 by bmangany         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,10 +28,3 @@ void	ft_print_alphabet()
 		i++;
 	}
 }
-
-int	main()
-{
-	ft_print_alphabet();
-	return (0);
-}
-
